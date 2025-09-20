@@ -1,19 +1,26 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nilesh+Chhabra+👋;Final+Year+CSE+Student;AI+%7C+Cloud+%7C+Java+%7C+Python;Open-Source+%7C+Problem+Solver+%7C+Learner" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Nilesh+Chhabra+👋;Final+Year+CSE+Student;AI+%7C+Cloud+%7C+Java+%7C+Python;Open-Source+%7C+Problem+Solver+%7C+Learner" alt="Typing Animation" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me  
+# 🚀 Nilesh Chhabra  
+
+Crafting clean code, solving problems, and building projects that matter ✨  
+
+---
+
+## 💡 About Me  
 - 🎓 Final year **Computer Science & Engineering** student  
-- 📚 CGPA: **8.71**  
+- 📚 **CGPA: 8.71**  
 - 💡 Passionate about **AI, Cloud, Java, Python, and Full-Stack Development**  
 - 🔎 Skilled in **compliance, audits, and technical testing**  
 - 🌱 Currently exploring **DevOps & scalable systems**  
 - 💻 Love building **AI-driven and web-based projects**  
+- 🎶 Fun fact: I debug better with music 🎧  
 
 ---
 
@@ -37,6 +44,7 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -56,11 +64,9 @@
 
 ## 🏆 Achievements  
 
-- 🎓 **CGPA: 8.71** in Computer Science & Engineering  
 - ✅ Multiple **certifications in AI and Cloud Computing**  
 - 💡 Built **Intelligent Career Guidance System with AI**  
-- 🍴 Developed **QuickDesk – Help Desk Ticketing System (Hackathon Project)**  
-- 🍔 Created **Food Delivery Web Application** with modern features  
+- 🍴 Developed **QuickDesk – Help Desk Ticketing System (Hackathon Project)**   
 
 ---
 
@@ -82,11 +88,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nilesh-chhabra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nileshchhabra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:chhabra.nilesh05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/NileshChhabra"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/Nilesh-Chhabra05/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
 </p>
 
 ---
 
-⭐ **“Code. Learn. Grow. Repeat.”**
+⭐ *“Code. Learn. Grow. Repeat.”*
